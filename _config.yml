@@ -1,0 +1,16 @@
+typography_spectrum: 0.6497709956020117
+color:
+  brandStrength: 0.3500513848848641
+  lightness: 0.339049375616014
+  saturation: 0.8979794804472476
+  rhythmicContrast: 0.39280062704347074
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+github: true
+layout_spectrum: 0.315621203975752
+name: kevdoy
+content: []
